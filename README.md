@@ -1,4 +1,12 @@
-# Ylet-site
+import AboutYLET from './components/AboutYLET'; // adapte le chemin si nécessaire
+
+function App() {
+  return (
+    <>
+      <AboutYLET />
+    </>
+  );
+}# Ylet-site
 Site officiel de la marque YLET 
 <section className="px-6 py-10 bg-white text-gray-800">
   <div className="max-w-4xl mx-auto">
